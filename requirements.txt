@@ -1,0 +1,4 @@
+streamlit
+pylint
+radon
+pandas
