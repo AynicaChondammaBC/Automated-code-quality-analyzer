@@ -54,3 +54,7 @@ identify coding issues and evaluate code quality.
 
 ## Author
 Add your name here.
+
+## Application Screenshot
+
+![Code Quality Analyzer](project-screenshot.png)
